@@ -1,4 +1,4 @@
-# DVD Screensaver
+# DVD Screensavergay
 A simple, easily customizable website, made with the classic HTML + CSS + JS trio, that simulates the DVD screensaver.
 
 ## What is this?
